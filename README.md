@@ -10,12 +10,9 @@ like: FOLDER Images for .jpg .jpeg .png etc
 ### Visit My Profile: [Ayush Shete](https://in.linkedin.com/in/ayushshete)
 
 ### SCREENSHOT 
-### 1.
-<br>
+# (1)
 ![](images/Screenshot%20(391).png)
-<br>
-### 2.
-<br>
+# (2)
 ![](images/Screenshot%20(393).png)
 
 ## Just follow☝️ me and Star⭐ my repository 
